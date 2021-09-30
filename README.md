@@ -30,7 +30,8 @@
 - http://www.fypsolutions.com/opencv-python/ssdlite-mobilenet-object-detection-with-opencv-dnn/
 - https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
 - https://github.com/anirbankonar123/CorrosionDetector/
-
+- https://github.com/sayakpaul/Grocery-Product-Detection.git
+- https://github.com/gulvarol/grocerydataset.git
 ```bash
 https://github.com/moneshj
 
